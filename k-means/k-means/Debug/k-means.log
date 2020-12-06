@@ -1,0 +1,22 @@
+﻿  k-means.cpp
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(51,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(63,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(65,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(90,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(102,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(182,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(222,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(225,46): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(227,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(229,66): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(229,50): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\k-means\k-means\k-means.cpp(260,27): warning C4018: '<': no coinciden signed/unsigned
+  k-means.vcxproj -> C:\Users\HP\source\repos\k-means\Debug\k-means.exe
